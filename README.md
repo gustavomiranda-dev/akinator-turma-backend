@@ -1,7 +1,7 @@
 # 🔮 Akinator da Turma — Backend
 
 ![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen?logo=springboot)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.x-brightgreen?logo=springboot)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?logo=postgresql)
 ![Maven](https://img.shields.io/badge/Maven-build-red?logo=apachemaven)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
