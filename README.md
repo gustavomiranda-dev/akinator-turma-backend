@@ -13,6 +13,7 @@ API REST em Spring Boot para um jogo estilo **Akinator**, onde o jogador pensa e
 
 ## 📋 Índice
 
+- [Demonstração](#-demonstração)
 - [Como funciona](#-como-funciona)
 - [Tecnologias](#-tecnologias)
 - [Arquitetura](#-arquitetura)
@@ -25,6 +26,13 @@ API REST em Spring Boot para um jogo estilo **Akinator**, onde o jogador pensa e
 - [Licença](#-licença)
 
 ---
+ 
+## 🎥 Demonstração
+ 
+![Demo do jogo](docs/images/demo.gif)
+ 
+---
+
 
 ## 🎮 Como funciona
 
